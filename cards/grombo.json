@@ -1,7 +1,5 @@
 {
-    "identifier": "card.grombo",
-    "name": "Grombo",
-    "description": "It's Grombo, what else is there to say?",
+    "identifier": "grombo",
     "thumbnail": "https://cdn.discordapp.com/attachments/894269220509081712/1077805048060448798/grombo.png",
     "rarity": "standard",
     "stats": {

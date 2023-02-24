@@ -1,0 +1,15 @@
+# Card Names
+card.oof=Oof
+card.grombo=Grombo
+
+# Card Descriptions
+card.oof.description=A classic Roblox character.
+card.grombo.description=It's Grombo, what else is there to say?
+
+# Booster Packs
+pack.starter=Starter Booster Pack
+pack.basic=Basic Booster Pack
+
+# Errors
+error.no_account=You don't have an account :( (GO GET ONE YOU POO BALL)
+error.has_account=You already have an account :P

@@ -1,7 +1,5 @@
 {
-    "identifier": "card.oof",
-    "name": "Oof",
-    "description": "A classic Roblox character",
+    "identifier": "oof",
     "thumbnail": "https://cdn.discordapp.com/attachments/894269220509081712/1078144696058118184/oof.png",
     "rarity": "standard",
     "stats": {
