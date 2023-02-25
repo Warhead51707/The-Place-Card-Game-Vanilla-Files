@@ -1,0 +1,8 @@
+{
+    "identifier": "health",
+    "thumbnail": "https://ih1.redbubble.net/image.587757450.6328/st,small,845x845-pad,1000x1000,f8f8f8.u3.jpg",
+    "rarity": "great",
+    "stats": {
+        "health": 100
+    }
+}
