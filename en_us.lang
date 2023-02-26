@@ -20,3 +20,4 @@ pack.basic=Basic Booster Pack
 error.no_account=You don't have an account :( (GO GET ONE YOU POO BALL)
 error.has_account=You already have an account :P
 error.no_packs=You don't have any packs at this time.
+error.no_next_pack=There isn't any other packs you currently own.
