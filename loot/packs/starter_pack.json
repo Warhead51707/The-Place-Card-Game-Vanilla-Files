@@ -6,12 +6,12 @@
             "amount": 1,
             "entries": [{
                     "type": "play",
-                    "id": "grombo",
+                    "identifier": "grombo",
                     "weight": 1
                 },
                 {
                     "type": "play",
-                    "id": "oof",
+                    "identifier": "oof",
                     "weight": 1
                 }
             ]
@@ -23,7 +23,7 @@
             },
             "entries": [{
                 "type": "item",
-                "id": "health",
+                "identifier": "health",
                 "weight": 1
             }]
         }
