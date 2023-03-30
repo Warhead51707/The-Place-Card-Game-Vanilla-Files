@@ -1,0 +1,19 @@
+{
+    "identifier": "shop",
+    "contents": [
+        {
+            "entries": [
+                {
+                    "weight": 100,
+                    "amount": {
+                        "min": 2,
+                        "max": 4
+                    },
+                    "cost": 50,
+                    "type": "pack",
+                    "identifier": "basic"
+                }
+            ]
+        }
+    ]
+}
